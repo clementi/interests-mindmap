@@ -1,6 +1,7 @@
 # Interests
 ## Mathematics
 - Number Theory
+- Complex Analysis
 - Category Theory
 - Mathematical Logic
 - Set Theory
