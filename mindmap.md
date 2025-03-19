@@ -3,6 +3,7 @@
 - Number Theory
 - Complex Analysis
 - Category Theory
+- Graph Theory
 - Mathematical Logic
 - Set Theory
 - Calculus
