@@ -43,3 +43,20 @@
 - Decision Theory
 - Programming Languages
 ## Complexity Theory
+## Language
+- Linguistics
+- Philology
+## Art
+- Writing
+  - Fiction
+  - Poetry
+- Drawing & Painting
+- Music
+  - Music Theory
+  - Musicology
+  - Western Art Music
+    - Baroque
+    - Classical
+    - Romantic
+    - Modern
+    - Jazz
