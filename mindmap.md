@@ -63,5 +63,4 @@
     - Romantic
     - Modern
     - Jazz
-## Complexity Theory
 ## Cognitive Science
