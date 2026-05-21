@@ -44,6 +44,7 @@
 ## Computation Science
 - Decision Theory
 - Programming Languages
+- Artificial Intelligence
 ## Complexity Theory
 ## Language
 - Linguistics
@@ -62,3 +63,5 @@
     - Romantic
     - Modern
     - Jazz
+## Complexity Theory
+## Cognitive Science
